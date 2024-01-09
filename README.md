@@ -1,2 +1,2 @@
 # EduNexa-Tasks
-AICTE Approved EduNex
+AICTE Approved EduNexa-Internship Tasks
